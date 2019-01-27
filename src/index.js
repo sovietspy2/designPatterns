@@ -7,6 +7,7 @@ import adapterPattern from './structuralPatterns/adapterPattern/example';
 import compositePattern from './structuralPatterns/compositePattern/example';
 import decoratorPattern from './structuralPatterns/decoratorPattern/example';
 import facadePattern from './structuralPatterns/facadePattern';
+import flyweightPatter from './structuralPatterns/flyweightPattern';
 
 // creational pattern examples
 constructorPattern();
@@ -17,3 +18,4 @@ adapterPattern();
 compositePattern();
 decoratorPattern();
 facadePattern();
+flyweightPatter();
