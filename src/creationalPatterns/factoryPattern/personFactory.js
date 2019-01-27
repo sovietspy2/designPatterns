@@ -36,7 +36,7 @@ class Woman extends Man{
 // not so great example
 const personFactory = function(name='unnamed person', profession='none', age=0, canCook=false) {
     if (canCook) {
-        return new Woman(name,age,profession)
+        return new Woman(name,age,profession);
     } else {
         return new Man(name,age,profession);
     }
