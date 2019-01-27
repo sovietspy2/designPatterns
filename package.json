@@ -21,6 +21,6 @@
     "@babel/plugin-proposal-class-properties": "^7.3.0"
   },
   "dependencies": {
-   
+    "uuid": "^3.3.2"
   }
 }

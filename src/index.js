@@ -6,6 +6,7 @@ import singletonPattern from './creationalPatterns/singletonPattern/example';
 import adapterPattern from './structuralPatterns/adapterPattern/example';
 import compositePattern from './structuralPatterns/compositePattern/example';
 import decoratorPattern from './structuralPatterns/decoratorPattern/example';
+import facadePattern from './structuralPatterns/facadePattern';
 
 // creational pattern examples
 constructorPattern();
@@ -15,3 +16,4 @@ singletonPattern();
 adapterPattern();
 compositePattern();
 decoratorPattern();
+facadePattern();
