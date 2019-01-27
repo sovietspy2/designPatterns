@@ -6,7 +6,7 @@
   "scripts": {
     "start": "babel-node src/index.js",
     "startOld": "node index.mjs  --experimental-modules",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo no tests yet",
     "start2": "npm run build && node dist/index.js",
     "start3": "npm run build && nodemon dist/index.js",
     "nodemonStart": "nodemon --exec babel-node src/server.js",
